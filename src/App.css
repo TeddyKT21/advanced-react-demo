@@ -1,0 +1,14 @@
+#root {
+  margin: 0 ;
+  padding: 0;
+  text-align: center;
+}
+
+.pageContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+
+}

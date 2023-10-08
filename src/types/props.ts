@@ -1,0 +1,3 @@
+type MemoComponentProps = {
+    text:string;
+}
